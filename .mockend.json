@@ -1,6 +1,6 @@
 {
 "Activ":  {
-    	"title": {"string":{"SmartChamber 1"}},
-    	"sn": {"string":{"1111111111"}}
+    	"title": {"string":{}},
+    	"sn": {"string":{}}
   }
 }
