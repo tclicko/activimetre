@@ -1,16 +1,6 @@
 {
 "Activ":  {
-    	"title": "SmartChamber 1",
-    	"sn": "111111111",
-    	"status": 0,
-    	"nuclide": "boro",
-    	"sec": 34,
-	"min": 12,
-	"hr": 9,
-	"day": 19,
-	"mon": 7,
-	"yr": 2021,
-	"activity": "-0.03",
-	"unit": 1
+    	"title": {"string":{"SmartChamber 1"}},
+    	"sn": {"string":{"1111111111"}}
   }
 }
