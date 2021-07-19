@@ -2,5 +2,15 @@
 "Activ":  {
     	"title": {"string":["SmartChamber 1"]},
     	"sn": {"string":["11111111"]}
+        "status": {"int":[0]},
+    "nuclide": {"string":["CS137"]},
+    "sec": {"int":[34]},
+	"min": {"int":[12]},
+	"hr": {"int":[9]},
+	"day": {"int":[19]},
+	"mon": {"int":[7]},
+	"yr": {"int":[2021]},
+	"activity": {"string":["-0.03"]},
+	"unit": {"int":[1]}
   }
 }
