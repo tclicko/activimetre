@@ -1,7 +1,7 @@
 {
 "Activ":  {
     	"title": {"string":["SmartChamber 1"]},
-    	"sn": {"string":["11111111"]}
+    	"sn": {"string":["11111111"]},
         "status": {"int":[0]},
     "nuclide": {"string":["CS137"]},
     "sec": {"int":[34]},
